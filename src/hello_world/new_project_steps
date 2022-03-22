@@ -11,8 +11,11 @@ Red color file means: un-versioned (file not kept track of)
 Green file: ready to be part of a repository
 You made local repository
 Commit and it will open commit window.
-Unversioned Files need to be expanded
+Un-versioned Files need to be expanded
 Check mark your text files
 Make a message in the Amend
 Then hit Commit
-It will go to local repository 
+It will go to local repository
+For every new Project go to Git--> GitHub---> Share Project on GitHub
+Then you can commit and push as many files as you want
+
