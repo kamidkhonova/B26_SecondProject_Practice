@@ -1,0 +1,18 @@
+How to create new project
+Steps:
+Go to file
+New Project->  make sure it's under Java--> hit next, next---> Put name---> Finish
+
+Make a new Package
+Make a new text file
+Go to VSC and enable it
+it will select Git to be default, if not selet Git.
+Red color file means: un-versioned (file not kept track of)
+Green file: ready to be part of a repository
+You made local repository
+Commit and it will open commit window.
+Unversioned Files need to be expanded
+Check mark your text files
+Make a message in the Amend
+Then hit Commit
+It will go to local repository 
